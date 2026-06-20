@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm [Stewart]
 
-<!--
-**Stewart000/Stewart000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- I'm currently learning [AI at IYF Academy].
+- I'm interested in [AI, Technology, Nature].
+- I'm looking to collaborate on [AI familiarization advancement].
 
-Here are some ideas to get you started:
+## Skills I'm Building
+- Git and GitHub
+- ["Python", "HTML/CSS", "Machine Learning"]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
+- [AI Introduction](link) — basics into Ai
+
+## How to Reach Me
+- Email: [Stewartmurandi@gmail.com]
+- LinkedIn: [your LinkedIn profile link]
+
+- Where one ends, another begins
