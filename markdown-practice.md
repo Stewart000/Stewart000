@@ -1,14 +1,15 @@
 ##My Learning Goals
 
 ###This Semester
+
 I **aim** to learn and apply *AI* beyond ~~just~~ `prompts`.
 [Stewart000](
 
-Unordered list of target objectives: 
+Target objectives: 
 - Deeper use of AI
 - Autonomy
 - Creating chatbots
-Ordered list of Git commit:
+Steps for Git commit:
 1. cd relevant repository that was already previously cloned
 2. git status
 3. git add .
