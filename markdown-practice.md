@@ -6,12 +6,12 @@ I **aim** to learn and apply *AI* beyond ~~just~~ `prompts`.
 
 [https://github.com/Stewart000/Stewart000.github.io](https://www.google.com)
 
-Target objectives: 
+### Target objectives: 
 - Deeper use of AI
 - Autonomy
 - Creating chatbots
 
-Steps for Git commit:
+### Steps for Git commit:
 1. cd relevant repository that was already previously cloned
 2. git status
 3. git add .
@@ -21,19 +21,19 @@ Steps for Git commit:
 | Python  |           |            |
 | C++     |           |            |
 
-Learning goals task list:
+### Learning goals task list:
 - [x] What AI constitutes
 - [ ] Python
 - [ ] C++
 - [ ] Building chatbots
 
 ```python
-print("Hello, world!")
+print("Present")
 ```
 
 > The top of one mountain is the bottom of the next.
 
-####About me
+#### About me
 
 I am taking an *AI short course* to satisfy my curiosity and expand my knowledge.
 
