@@ -4,7 +4,7 @@
 
 I **aim** to learn and apply *AI* beyond ~~just~~ `prompts`.
 
-[Stewart000](https://www.google.com)
+[https://github.com/Stewart000/Stewart000.github.io](https://www.google.com)
 
 Target objectives: 
 - Deeper use of AI
