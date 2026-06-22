@@ -18,8 +18,8 @@ Steps for Git commit:
 
 | Tool    | Purpose   | Link       |
 |---------|-----------|------------|
-| Claude  | Drafting  | Claude.ai  |
-| ChatGPT | Thorough  | ChatGpt    |
+| Python  |           |            |
+| C++     |           |            |
 
 Learning goals task list:
 - [x] What AI constitutes
