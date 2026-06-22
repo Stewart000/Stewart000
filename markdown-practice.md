@@ -1,6 +1,6 @@
-##My Learning Goals
+## My Learning Goals
 
-###This Semester
+### This Semester
 
 I **aim** to learn and apply *AI* beyond ~~just~~ `prompts`.
 
