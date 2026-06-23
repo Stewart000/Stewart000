@@ -18,8 +18,8 @@ I **aim** to learn and apply *AI* beyond ~~just~~ `prompts`.
 
 | Tool    | Purpose   | Link       |
 |---------|-----------|------------|
-| Claude  |           |            |
-| ChatGPT |           |            |
+| Claude  | Drafting  | Claude.ai  |
+| ChatGPT | Thorough  | ChatGpt    |
 
 ### Learning goals task list:
 - [x] What AI constitutes
