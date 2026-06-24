@@ -7,7 +7,7 @@
 
 ## Skills I'm Building
 - Git and GitHub
-- ["Python", "HTML/CSS", "Machine Learning"]
+- ["Python", "C++", "Machine Learning", "Building Chatbots"]
 
 ## Current Projects
 - [AI Introduction](link) — basics into Ai
