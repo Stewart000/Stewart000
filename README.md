@@ -10,10 +10,10 @@
 - ["Python", "C++", "Machine Learning", "Building Chatbots"]
 
 ## Current Projects
-- [AI Introduction](link) — basics into Ai
+- [AI Introduction](link) — basics of AI
 
 ## How to Reach Me
-- Email: [Stewartmurandi@gmail.com]
+- Email: [stewartmurandi@gmail.com]
 - LinkedIn: [your LinkedIn profile link]
 
 - Where one ends, another begins
